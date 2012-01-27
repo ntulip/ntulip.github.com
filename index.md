@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hello World!
+title: Jekyl is awesome!
 ---
 {% include JB/setup %}
 
